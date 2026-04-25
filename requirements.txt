@@ -1,0 +1,24 @@
+# Core LangChain
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-groq==0.1.9
+
+# Embeddings (free, runs inside Streamlit Cloud)
+sentence-transformers==3.0.1
+
+# Vector store
+chromadb==0.5.5
+
+# PDF parsing
+pymupdf==1.24.9
+
+# UI
+streamlit==1.38.0
+
+# Evaluation
+ragas==0.1.21
+datasets==2.21.0
+
+# Utilities
+pandas==2.2.2
+pydantic==2.8.2
