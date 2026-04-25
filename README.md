@@ -51,7 +51,7 @@ Done! You get a public URL like `https://yourname-docmind.streamlit.app`
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/docmind.git
+git clone https://github.com/Codex610/docmind.git
 cd docmind
 
 # 2. Install dependencies
@@ -75,9 +75,6 @@ docmind/
 ├── app.py                        # Streamlit UI
 ├── evaluate.py                   # RAGAS evaluation
 ├── requirements.txt
-├── .streamlit/
-│   ├── config.toml               # App theme
-│   └── secrets.toml.example      # Secret key template
 ├── .env.example                  # Local env template
 ├── .gitignore
 └── rag/
