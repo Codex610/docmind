@@ -144,7 +144,7 @@ docmind/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/docmind.git
+git clone https://github.com/Codex610/docmind.git
 cd docmind
 
 # 2. Create virtual environment
@@ -182,7 +182,7 @@ git init
 git add .
 git commit -m "Initial commit — DocMind RAG chatbot"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/docmind.git
+git remote add origin https://github.com/Codex610/docmind.git
 git push -u origin main
 ```
 
