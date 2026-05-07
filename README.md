@@ -199,7 +199,7 @@ git push -u origin main
    ```
 7. Click **Deploy**
 
-✅ You get a live public URL: `https://yourname-docmind.streamlit.app`
+✅ You get a live public URL: `https://rag-docmind.streamlit.app`
 
 ---
 
